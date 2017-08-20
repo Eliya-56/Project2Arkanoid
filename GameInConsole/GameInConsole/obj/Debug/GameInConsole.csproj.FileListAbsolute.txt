@@ -1,0 +1,8 @@
+C:\Users\Администратор\Desktop\C#\projects\GameInConsole\GameInConsole\bin\Debug\GameInConsole.exe.config
+C:\Users\Администратор\Desktop\C#\projects\GameInConsole\GameInConsole\bin\Debug\GameInConsole.exe
+C:\Users\Администратор\Desktop\C#\projects\GameInConsole\GameInConsole\bin\Debug\GameInConsole.pdb
+C:\Users\Администратор\Desktop\C#\projects\GameInConsole\GameInConsole\bin\Debug\ConsoleGraphics.cs.dll
+C:\Users\Администратор\Desktop\C#\projects\GameInConsole\GameInConsole\bin\Debug\ConsoleGraphics.cs.pdb
+C:\Users\Администратор\Desktop\C#\projects\GameInConsole\GameInConsole\obj\Debug\GameInConsole.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\C#\projects\GameInConsole\GameInConsole\obj\Debug\GameInConsole.exe
+C:\Users\Администратор\Desktop\C#\projects\GameInConsole\GameInConsole\obj\Debug\GameInConsole.pdb
